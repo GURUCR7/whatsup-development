@@ -3,3 +3,7 @@ this is whats app development code
 this gives us a clear picture how whats app works
 
 hiding the last seen details
+
+video call
+
+audio call
