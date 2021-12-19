@@ -7,3 +7,5 @@ hiding the last seen details
 video call
 
 audio call
+
+added documentation feature
